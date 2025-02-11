@@ -1,4 +1,4 @@
-### Assignment 2: Custom Project Scaffold
+# Assignment 2: Custom Project Scaffold
 
 ## How to Use
 
